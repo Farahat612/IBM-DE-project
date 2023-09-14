@@ -49,9 +49,9 @@ To run this project, follow these steps:
   ```
 
 3. Execute the Jupyter Notebooks in the following order:
-  •	Task01_Web_Scraping.ipynb
-  •	Task02_Extract_API_Data.ipynb
-  •	Task03_ETL.ipynb
+   -   Task01_Web_Scraping.ipynb
+   -   Task02_Extract_API_Data.ipynb
+   -   Task03_ETL.ipynb
 
 4. Follow the instructions within each notebook to complete each task.
 
